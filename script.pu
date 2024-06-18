@@ -1,0 +1,9 @@
+url "https://rg-playground.vercel.app/"
+screenshot "a.png"
+
+click "#run_code"
+screenshot "b.png"
+
+write "#editor" "הדפסה(1)"
+click "#run_code"
+screenshot "c.png"
