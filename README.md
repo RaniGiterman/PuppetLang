@@ -66,4 +66,5 @@ Use the example `script.pu` file included in the repo, or paste the script into 
 pu -f script.pu -t 30s
 ```
 
-The above command targets the pu exec to run the file `script.pu` using the `-f` flag, and sets a timeout duration of 30 seconds.
+The above command targets the pu exec to run the file `script.pu` using the `-f` flag, and sets a timeout duration of 30 seconds. <br>
+You should see 3 screenshots saved on your current directory, named `a.png`, `b.png` and `c.png`. Good Luck!
