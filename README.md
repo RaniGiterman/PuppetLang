@@ -15,6 +15,7 @@ go build -o pu .
 sudo mkdir -p /usr/local/pu/bin
 sudo cp pu /usr/local/pu/bin
 export PATH=$PATH:/usr/local/pu/bin
+pu -h
 ```
 
 <h1>
